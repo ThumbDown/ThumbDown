@@ -1,5 +1,5 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 2,
 
   "name": "Dislike",
   "description": "A dislike button for popular social media sites",
